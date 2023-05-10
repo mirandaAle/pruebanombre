@@ -1,0 +1,19 @@
+h3 {
+    /* text-align: center; */
+    color: blue;
+    text-align: end;
+    
+}
+img {
+    width: 400px;
+    right: 400px;
+}
+.foti{
+    width: 400px;
+    height: 400px;
+}
+.parrafo{
+    /* justify-content: end; */
+    text-decoration-color: aqua;
+    
+}
